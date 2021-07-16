@@ -1,4 +1,4 @@
-🤟🏿 Yerrr,
+<img src="https://emoji.gg/assets/emoji/2772-akkowoah.gif" width="24px" alt="sup"> Yerrr!
 
 Take your shoes off, grab a drink and let's chill. 
 
