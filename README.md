@@ -3,7 +3,7 @@
 Take your shoes off, grab a drink and let's explore. 
 
 Follow me on my journey to become better at:
-- 📊 data analytics
+- 📊 data analytics in R and SQL
 - 👾 game design using pygame
 - 🐝 beekeeping 
 - 🌱 urban gardening
