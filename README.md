@@ -1,16 +1,16 @@
-<img src="https://emoji.gg/assets/emoji/2772-akkowoah.gif" width="24px" alt="sup"> Yerrr!
+<img src="https://emoji.gg/assets/emoji/2772-akkowoah.gif" width="24px" alt="sup"> Welcome!
 
-Take your shoes off, grab a drink and let's chill. 
+Take your shoes off, grab a drink and let's explore. 
 
 Follow me on my journey to become better at:
-- 🛹 skatebaording
 - 📊 data analytics
 - 👾 game design using pygame
 - 🐝 beekeeping 
 - 🌱 urban gardening
+- 🛹 skatebaording
 
 
-📬 wanna chill?
+📬 where to find me?
 
 
 [![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=linkedin&color=5b5b5b&)](https://www.linkedin.com/in/william-chime/)
