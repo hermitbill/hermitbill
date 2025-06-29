@@ -1,7 +1,5 @@
 <img src="https://emoji.gg/assets/emoji/2772-akkowoah.gif" width="24px" alt="sup"> Welcome!
 
-Welcome!!
-
 Follow me on my journey to become better at:
 - Python
 
