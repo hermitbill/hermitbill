@@ -1,7 +1,9 @@
-<img src="https://emoji.gg/assets/emoji/2772-akkowoah.gif" width="24px" alt="sup"> Welcome!
 
-Follow me on my journey to become better at:
-- Python
+- Game dev 
+- A top down shooter with bullet hell references 
+- Tech: Python
+- [You vs Red (Game Repo)](https://github.com/hermitbill/you-v-red)
+
 
 
 <!---
